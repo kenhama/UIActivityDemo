@@ -18,7 +18,7 @@
 		37BDA5871610A20E0001C159 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37BDA5861610A20E0001C159 /* Default-568h@2x.png */; };
 		37BDA58A1610A20E0001C159 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 37BDA5881610A20E0001C159 /* MainStoryboard.storyboard */; };
 		37BDA58D1610A20E0001C159 /* KJViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 37BDA58C1610A20E0001C159 /* KJViewController.m */; };
-		37FF572B1610A74F00B3D1A9 /* IMG_5651.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 37FF572A1610A74F00B3D1A9 /* IMG_5651.JPG */; };
+		37FF573E1610B86500B3D1A9 /* IMG_5651.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 37FF573D1610B86500B3D1A9 /* IMG_5651.JPG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,7 +38,7 @@
 		37BDA5891610A20E0001C159 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		37BDA58B1610A20E0001C159 /* KJViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KJViewController.h; sourceTree = "<group>"; };
 		37BDA58C1610A20E0001C159 /* KJViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KJViewController.m; sourceTree = "<group>"; };
-		37FF572A1610A74F00B3D1A9 /* IMG_5651.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_5651.JPG; sourceTree = "<group>"; };
+		37FF573D1610B86500B3D1A9 /* IMG_5651.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_5651.JPG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,7 +90,7 @@
 				37BDA5881610A20E0001C159 /* MainStoryboard.storyboard */,
 				37BDA58B1610A20E0001C159 /* KJViewController.h */,
 				37BDA58C1610A20E0001C159 /* KJViewController.m */,
-				37FF572A1610A74F00B3D1A9 /* IMG_5651.JPG */,
+				37FF573D1610B86500B3D1A9 /* IMG_5651.JPG */,
 				37BDA5771610A20E0001C159 /* Supporting Files */,
 			);
 			path = UIActivityDemo;
@@ -167,7 +167,7 @@
 				37BDA5851610A20E0001C159 /* Default@2x.png in Resources */,
 				37BDA5871610A20E0001C159 /* Default-568h@2x.png in Resources */,
 				37BDA58A1610A20E0001C159 /* MainStoryboard.storyboard in Resources */,
-				37FF572B1610A74F00B3D1A9 /* IMG_5651.JPG in Resources */,
+				37FF573E1610B86500B3D1A9 /* IMG_5651.JPG in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

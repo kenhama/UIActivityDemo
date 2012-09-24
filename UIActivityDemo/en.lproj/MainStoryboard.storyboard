@@ -78,7 +78,6 @@
                             <constraint firstItem="t1A-Mr-Gt9" firstAttribute="trailing" secondItem="3" secondAttribute="trailing" type="default" id="Ieg-2g-lud"/>
                             <constraint firstAttribute="trailing" secondItem="V7j-VQ-HgC" secondAttribute="trailing" constant="43" id="JnD-ZO-MYc"/>
                             <constraint firstAttribute="bottom" secondItem="Rjj-jn-jZ2" secondAttribute="bottom" constant="20" symbolic="YES" type="default" id="NQf-ZB-pIA"/>
-                            <constraint firstItem="Rjj-jn-jZ2" firstAttribute="baseline" secondItem="ldI-t9-b8Z" secondAttribute="baseline" type="default" id="W1c-3c-Bzo"/>
                             <constraint firstAttribute="bottom" secondItem="NTL-AO-Ik0" secondAttribute="bottom" constant="86" id="bA2-Sw-FfI"/>
                             <constraint firstItem="V7j-VQ-HgC" firstAttribute="baseline" secondItem="NTL-AO-Ik0" secondAttribute="baseline" type="default" id="fGe-J3-Mdi"/>
                             <constraint firstItem="t1A-Mr-Gt9" firstAttribute="leading" secondItem="3" secondAttribute="leading" type="default" id="kPf-EL-nQD"/>
@@ -95,7 +94,7 @@
         </scene>
     </scenes>
     <resources>
-        <image name="IMG_5651.JPG" width="2448" height="2448"/>
+        <image name="IMG_5651.JPG" width="1024" height="1024"/>
     </resources>
     <classes>
         <class className="KJViewController" superclassName="UIViewController">

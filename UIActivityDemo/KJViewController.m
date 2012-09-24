@@ -36,7 +36,7 @@
 
 - (IBAction)shareTextButtonPressed:(id)sender {
 	
-	NSString *shareText = @"hogehoge";
+	NSString *shareText = @"UIActivityViewController demo!";
 	NSArray *activityItems = @[shareText];
 	NSArray *excludeActivities = @[UIActivityTypePostToWeibo];
 	
@@ -55,8 +55,8 @@
 
 - (IBAction)shareAllButtonPressed:(id)sender {
 	
-	NSString *shareText = @"hogehoge";
-	NSURL *shareURL = [NSURL URLWithString:@"http://catpaint.info"];
+	NSString *shareText = @"UIActivityViewController demo!";
+	NSURL *shareURL = [NSURL URLWithString:@"http://www.apple.com"];
 	NSArray *activityItems = @[self.imageView.image, shareText, shareURL];
 	NSArray *excludeActivities = @[UIActivityTypePostToWeibo];
 	
